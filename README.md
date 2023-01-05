@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+This is the react file for the Guide: Back-end - NoSQL in the cloud.
+
+I followed Smáris tutorial for it: https://faun.pub/the-mern-stack-for-beginners-e607eb8b7100
+
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
